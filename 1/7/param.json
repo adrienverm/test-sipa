@@ -1,8 +1,8 @@
 {
-    "Format": "XXX",
-    "Annonceur": "XXX",
-    "Budget": "XXX",
-    "Industrie": "XXX",
-    "Nature": "XXX",
-    "Registre Créatif": "XXX"
+    "Format": "1",
+    "Annonceur": "TEST",
+    "Budget": "10000",
+    "Industrie": "BTP",
+    "Nature": "TEST",
+    "Registre Créatif": "TEST"
 }
